@@ -1,0 +1,6 @@
+ibuild
+node_modules
+npm-debug.log
+dist
+.tmp/
+/nbproject

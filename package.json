@@ -1,0 +1,21 @@
+{
+  "name": "mailsender",
+  "version": "1.0.0",
+  "description": "Send inquiry mail",
+  "main": "server.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "shanky",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "nodemailer": "^4.6.2",
+    "serve-favicon": "^2.4.5"
+  }
+}
